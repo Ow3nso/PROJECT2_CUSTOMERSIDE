@@ -48,7 +48,4 @@ To run this project successfully, make sure your development environment meets t
 
 Happy coding! 🎯
 
-```
 
-If you want, I can tailor this for **Web**, **Android**, **iOS**, or CI/CD (e.g., Codemagic/GitHub Actions).
-```
