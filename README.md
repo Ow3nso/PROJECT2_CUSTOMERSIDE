@@ -1,5 +1,3 @@
-Here’s a clean `README.md` section you can drop into your project:
-
 ````markdown
 # Project Setup & Requirements
 
